@@ -1,6 +1,6 @@
 # Position Size Calculator for Traders
 
-I made this to make my trading easier and I'll add more features to this program to make it more functional than calculating position size.
+I made this to make trading easier and I'll add more features to this program to make it more functional than calculating position size.
 
 
 # Features to add in the future:
